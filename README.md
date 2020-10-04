@@ -15,5 +15,7 @@ Day 8 -> Outliers are quite common in the data . All outliers are not bad and so
 
 Day 9 -> Selecting the right features for a model is important to perform better. Even if the data has hundreds of fearures, few features (like 15-20) can contribute more for the model performance. As part of Day 9, I learned how to select better features using Correlation, ExtraTreeClassifiers, SelectKBest and Information Gain.
 
+Day10 -> Selecting the right parameters for a model is very important. There is no one parameter that we can say that it will work for all cases. The right params change for each dataset and as part of Day10, I learned about the RandomizedSearchCV ,GridSearchCV and Hyperopt to tune the hyper parameters. Will continue learning more such methods as part of Day11.
+
 
 
