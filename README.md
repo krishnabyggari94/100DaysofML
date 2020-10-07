@@ -17,5 +17,10 @@ Day 9 -> Selecting the right features for a model is important to perform better
 
 Day10 -> Selecting the right parameters for a model is very important. There is no one parameter that we can say that it will work for all cases. The right params change for each dataset and as part of Day10, I learned about the RandomizedSearchCV ,GridSearchCV and Hyperopt to tune the hyper parameters. Will continue learning more such methods as part of Day11.
 
+Day11 -> Finding associations between features is important and it can be done using different methods. As part of Day 11, I learned about CHI Square and T test to check the association between features.
+
+Day12 -> UnSupervised Learning plays an important role when we don't have a target in the data or when data labelling is a costly affair. As part of Day12, I learned to cluster data using KMeans clustering technique using titanic dataset.
+
+Day13 -> In UnSupervised Learning, validation of the no of clusters chosen from the elbow method is important. As part of Day13, I learn about the Silhouette validation technique to check how good the data is assigned to different clusters. Also Performed Agglomerative Hierarchial Clustering on the titanic dataset and found that the performance is almost same as that of KMeans clustering. The algos result might vary as the data size increases.
 
 
