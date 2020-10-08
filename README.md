@@ -15,12 +15,12 @@ Day 8 -> Outliers are quite common in the data . All outliers are not bad and so
 
 Day 9 -> Selecting the right features for a model is important to perform better. Even if the data has hundreds of fearures, few features (like 15-20) can contribute more for the model performance. As part of Day 9, I learned how to select better features using Correlation, ExtraTreeClassifiers, SelectKBest and Information Gain.
 
-Day10 -> Selecting the right parameters for a model is very important. There is no one parameter that we can say that it will work for all cases. The right params change for each dataset and as part of Day10, I learned about the RandomizedSearchCV ,GridSearchCV and Hyperopt to tune the hyper parameters. Will continue learning more such methods as part of Day11.
+Day 10 -> Selecting the right parameters for a model is very important. There is no one parameter that we can say that it will work for all cases. The right params change for each dataset and as part of Day10, I learned about the RandomizedSearchCV ,GridSearchCV and Hyperopt to tune the hyper parameters. Will continue learning more such methods as part of Day11.
 
-Day11 -> Finding associations between features is important and it can be done using different methods. As part of Day 11, I learned about CHI Square and T test to check the association between features.
+Day 11 -> Finding associations between features is important and it can be done using different methods. As part of Day 11, I learned about CHI Square and T test to check the association between features.
 
-Day12 -> UnSupervised Learning plays an important role when we don't have a target in the data or when data labelling is a costly affair. As part of Day12, I learned to cluster data using KMeans clustering technique using titanic dataset.
+Day 12 -> UnSupervised Learning plays an important role when we don't have a target in the data or when data labelling is a costly affair. As part of Day12, I learned to cluster data using KMeans clustering technique using titanic dataset.
 
-Day13 -> In UnSupervised Learning, validation of the no of clusters chosen from the elbow method is important. As part of Day13, I learn about the Silhouette validation technique to check how good the data is assigned to different clusters. Also Performed Agglomerative Hierarchial Clustering on the titanic dataset and found that the performance is almost same as that of KMeans clustering. The algos result might vary as the data size increases.
+Day 13 -> In UnSupervised Learning, validation of the no of clusters chosen from the elbow method is important. As part of Day13, I learn about the Silhouette validation technique to check how good the data is assigned to different clusters. Also Performed Agglomerative Hierarchial Clustering on the titanic dataset and found that the performance is almost same as that of KMeans clustering. The algos result might vary as the data size increases.
 
-
+Day 14 -> Understanding the metrics and using the right metrics for a problem statement is important to select the better models. For example, if dataset is imbalanced, accuracy score is not useful and in such cases, confusion matrix/Precision/Recall/f1Score helps in understanding and tuning the model appropriately. Some of the problems require low False Positive and some others might require low False Negatives & based on this, we can fine tune our models. As part of Day 14, I learned more about the Classification metrics and also how to select a better threshold value for binary classification using roc auc curves.
