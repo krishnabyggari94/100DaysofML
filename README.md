@@ -28,3 +28,10 @@ Day 14 -> Understanding the metrics and using the right metrics for a problem st
 Day15 -> As the no of dimensions of the data increases, the accuracy of the model decreases and data also cannot be visualized. As part of Day15, I learned about the dimensionality reduction techniques like PCA ,TSNE and how to reduce the dimensions and visualize the high dimensional data in 2d and check whether the labels/targets can be separated or not.
 
 Day16 - > The relation between two features helps to understand the data in a better way (like whether they are positively/negatively correlated etc.) As part of Day16, I learned more about the Co Variance, Pearson & Spearman Rank Coefficients and also how to automate basic EDA process using the libraries pandas profiling and sweetviz.
+
+Day17 - > As an ML model cannot understand text data, its important to convert the text into vectors (each word is converted into a vector) and then the ML Algos are applied. In general the no of features for the text data is very high and all the Algos cannot be applied. As part of Day17, I learned more about the basic NLP preprocessing techniques, Stemming, Lemmatization, Bag of words and TF-IDF.
+Also , The WPL Challenge by the Widhya.org was really challenging and expecting to learn more better ways of EDA in the coming month.
+Dataset used in WPL- https://lnkd.in/ghwr4sT
+WPL Challenge Link -https://lnkd.in/gg6SWEQ
+GitHub Repo - https://lnkd.in/gGynYzK
+
