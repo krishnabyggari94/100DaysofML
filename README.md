@@ -35,3 +35,10 @@ Dataset used in WPL- https://lnkd.in/ghwr4sT
 WPL Challenge Link -https://lnkd.in/gg6SWEQ
 GitHub Repo - https://lnkd.in/gGynYzK
 
+Day18 - > As part of Day18, I implemented a simple Multinomial NB algorithm on sample spam sms dataset by vectorizing data using TF-IDF. Also learned about the Word2Vec vectorizing method from gensim library. GitHub Repo - https://lnkd.in/g2NpJjh
+Day2 WPL Challenge - https://lnkd.in/gaPCdVd
+
+Day19 - > Often the data which is required for EDA and model building is present in different types of DB and its essential to fetch the required data. And also we can insert our predictions in to a DB after model building for future references and also to check model performance and to improve it further. As part of Day19 , I learned to perform basic CURD operations on Mongo local DB and also how to connect to Mongo cloud DB using Atlas and perform the same operations.
+
+
+
