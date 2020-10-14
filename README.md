@@ -40,5 +40,8 @@ Day2 WPL Challenge - https://lnkd.in/gaPCdVd
 
 Day19 - > Often the data which is required for EDA and model building is present in different types of DB and its essential to fetch the required data. And also we can insert our predictions in to a DB after model building for future references and also to check model performance and to improve it further. As part of Day19 , I learned to perform basic CURD operations on Mongo local DB and also how to connect to Mongo cloud DB using Atlas and perform the same operations.
 
+Day20 - > As part of Day20, I learned how to automate basic data preprocessing and create models using the open source library PyCaret which automates most of tasks(from processing, model building to deployment). Top best models can be selected as per the required metrics and can be fine tuned to improve the model.
+GitHub Repo - https://lnkd.in/gR-zHzp
+
 
 
