@@ -43,5 +43,7 @@ Day19 - > Often the data which is required for EDA and model building is present
 Day20 - > As part of Day20, I learned how to automate basic data preprocessing and create models using the open source library PyCaret which automates most of tasks(from processing, model building to deployment). Top best models can be selected as per the required metrics and can be fine tuned to improve the model.
 GitHub Repo - https://lnkd.in/gR-zHzp
 
+Day21 - > For simple Datasets most of the times basic ML models perform well. But as the complexity increases, boosting and bagging algorithms tend to perform better. As part of Day21, I learned how to use different boosting algorithms like XgBoost, Lightgbm, Catboost on sample diabetes dataset.
+GitHub Repo - https://lnkd.in/gdBuFfh
 
 
