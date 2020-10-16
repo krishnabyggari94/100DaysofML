@@ -46,4 +46,8 @@ GitHub Repo - https://lnkd.in/gR-zHzp
 Day21 - > For simple Datasets most of the times basic ML models perform well. But as the complexity increases, boosting and bagging algorithms tend to perform better. As part of Day21, I learned how to use different boosting algorithms like XgBoost, Lightgbm, Catboost on sample diabetes dataset.
 GitHub Repo - https://lnkd.in/gdBuFfh
 
+Day22 - > As part of Day22 , I performed basic EDA on the house price prediction dataset and would do further analysis and explore the data in a better way in the coming days. 
+GitHub Repo - https://github.com/krishnabyggari94/house-price-prediction
+
+
 
