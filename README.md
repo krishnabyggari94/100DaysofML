@@ -49,5 +49,6 @@ GitHub Repo - https://lnkd.in/gdBuFfh
 Day22 - > As part of Day22 , I performed basic EDA on the house price prediction dataset and would do further analysis and explore the data in a better way in the coming days. 
 GitHub Repo - https://github.com/krishnabyggari94/house-price-prediction
 
-
+Day23 - > As part of Day 22, I continued the house price prediction project and implemented data preprocessing, feature engineering and hyper parameter tuned different models and found SVR regressor and GradientBoostingRegressor performed better than other models till now with r2_score ~0.91 and root mean square log error ~0.14 . Will continue further to build better features and better models.
+GitHub Repo - https://lnkd.in/gEJmwjS
 
