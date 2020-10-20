@@ -53,3 +53,7 @@ Day23 - > As part of Day 22, I continued the house price prediction project and 
 GitHub Repo - https://lnkd.in/gEJmwjS
 
 Day24 - > If the data is very huge, after some extent, the ML Algos accuracy cannot be increased and in such scenarios by using DL we can achieve better accuracies. Perceptron is a single layer neural network which is the base for all the Deep Learning algorithms . As part of Day24, I learned about Perceptron and how it is implemented.
+
+Day25 - > I started practicing on the dataset 'Predicting the no of likes of videos' and performed the basic EDA like which channels published more videos, which countries videos got the highest no of likes, which channel videos got more likes, on which days more videos are published, which words in the Title/Description got more likes etc..
+GitHub Repo - https://lnkd.in/gfCJKbH
+Dataset Link - https://lnkd.in/gjzvvHm
