@@ -57,3 +57,5 @@ Day24 - > If the data is very huge, after some extent, the ML Algos accuracy can
 Day25 - > I started practicing on the dataset 'Predicting the no of likes of videos' and performed the basic EDA like which channels published more videos, which countries videos got the highest no of likes, which channel videos got more likes, on which days more videos are published, which words in the Title/Description got more likes etc..
 GitHub Repo - https://lnkd.in/gfCJKbH
 Dataset Link - https://lnkd.in/gjzvvHm
+
+Day26 - > Data Preprocessing is an important step in ML and As part of Day26, I performed the basic data processing on the 'likes prediction on videos' data & built a simple RandomForest Regressor which has shown an error less than that of other models like KNeighbors , Linear Regression etc. By tuning the hyper params, we can get a better model.
