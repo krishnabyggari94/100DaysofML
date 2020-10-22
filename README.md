@@ -59,3 +59,5 @@ GitHub Repo - https://lnkd.in/gfCJKbH
 Dataset Link - https://lnkd.in/gjzvvHm
 
 Day26 - > Data Preprocessing is an important step in ML and As part of Day26, I performed the basic data processing on the 'likes prediction on videos' data & built a simple RandomForest Regressor which has shown an error less than that of other models like KNeighbors , Linear Regression etc. By tuning the hyper params, we can get a better model.
+
+Day27 -> AutoML reduces the time taken to process data/ to build models/ feature selection to some extent, but it can never replace the domain knowledge of an expert in selecting & building the right features which is the most important step in ML. As part of Day 27, I learned how to use AutoViml and built a simple model just by passing a dataset (titanic) where it performed all data preprocessing steps along with model building. Its really useful before starting to work on data as it will give better insights about data. GitHub Repo - https://lnkd.in/gmZe8mM
